@@ -198,7 +198,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="bilTextField" destination="548-NF-Owg" id="Gnm-OL-scS"/>
+                        <outlet property="billTextField" destination="548-NF-Owg" id="ngt-y3-IDZ"/>
                         <outlet property="splitNumberLable" destination="wRZ-xK-3ep" id="Yk9-dZ-cve"/>
                         <outlet property="tenPctButton" destination="PlG-el-esQ" id="pEX-FA-Yxm"/>
                         <outlet property="twentyPctButton" destination="LNk-fP-ToF" id="qHd-v9-tEv"/>
